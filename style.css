@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.greenh1{
+  color:green;
+}
+.redh1{
+  color:red;
+}
+.purpleh1{
+  color:purple;
+}
+p1{
+  color:blue;
+}
+p2{
+  color:green;
+}
+p3{
+  color:orange;
+}
+/* h1{
+  background-color: #ebf38f;
+  color: #4f7a28;
+} */
